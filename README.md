@@ -1,5 +1,5 @@
 # javascript-flappy-bird
-
+This is a project with JS, CSS and HTML. The idea is practice this technology with a guia. 
 # Source
 
 - This code comes from https://youtu.be/8xPsg6yv7TU
